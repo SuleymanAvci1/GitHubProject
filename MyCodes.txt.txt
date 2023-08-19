@@ -1,4 +1,4 @@
-this is my project 
-I will cresate
- version 1
-this line for version 2 
+I am working on my project.
+and in this point I want to create a 
+version 1.
+
